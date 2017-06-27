@@ -1,0 +1,18 @@
+Diff pointed the exact locations where the changes were. 
+Instead of scanning the whole file I had to only check where differences are.
+
+I can always see the incremental changes that were made for different features.
+This will help isolate any issues and fixing them fast.
+
+In code the logical checkpoint is very important unlike text edits. 
+Git helps in maintaining logical checkpoints for each version of file.
+
+One logical change may split multiple files.
+So it makes sense to have multiple files in a commit.
+
+git log to find commits. then git diff to see differences.
+
+I can always go back to a last working version.
+Helps me in narrowing down the culprit.
+
+Version control and collaboration.
