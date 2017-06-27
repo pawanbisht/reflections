@@ -1,0 +1,4 @@
+Git metadata gets created. Its needed for version control information for git.
+
+Snapshot of your commit. 
+Lets you changes be logical even if there are other changes that you don't need to commit.
